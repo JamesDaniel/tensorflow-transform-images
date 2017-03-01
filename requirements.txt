@@ -1,7 +1,13 @@
+appdirs==1.4.2
 funcsigs==1.0.2
 mock==2.0.0
 numpy==1.11.2
+olefile==0.44
+packaging==16.8
 pbr==1.10.0
+Pillow==4.0.0
+pkg-resources==0.0.0
 protobuf==3.0.0b2
+pyparsing==2.1.10
 six==1.10.0
-https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
+tensorflow==1.0.0
